@@ -1,0 +1,24 @@
+.canvas {
+    background-color: blanchedalmond;
+}
+
+
+
+.descr {
+    background-color: aquamarine;
+    color: rgb(8, 1, 15);
+    width: fit-content;
+}
+
+
+.ingre {
+    background-color: rgb(88, 249, 255);
+    color: black;
+    width: fit-content;
+}
+
+.stps {
+    background-color: cornflowerblue;
+    color: black;
+    width: fit-content;
+}
